@@ -1,4 +1,4 @@
-#include "fact.h"
+#include "factorial.h"
 int *
 factorial_1_svc(S *argp, struct svc_req *rqstp)
 {

@@ -1,4 +1,4 @@
-#include "fact.h"
+#include "factorial.h"
 void
 fact_prog_1(char *host)
 {
